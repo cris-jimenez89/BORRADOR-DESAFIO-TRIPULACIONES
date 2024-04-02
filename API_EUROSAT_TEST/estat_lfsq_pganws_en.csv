@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-GB" class="yui3-js-enabled webkit js chrome chrome120 chrome120-0 win secure ltr">
+
+<head>
+    <title>Eurostat - 410 - Gone</title>
+    <meta content="initial-scale=1.0, width=device-width" name="viewport">
+    <script type="text/javascript" src="/eurostat/ruxitagentjs_ICA2NVfgjqrux_10281231207105659.js" data-dtconfig="rid=RID_1758640240|rpid=-221569843|domain=europa.eu/eurostat|reportUrl=/eurostat/rb_39a3e95b-5423-482c-879b-99ef235dffeb|app=e63eebabdf39f376|agentId=ee873afe9992c8c0|featureHash=ICA2NVfgjqrux|vcv=2|rdnt=1|uxrgce=1|bp=3|cuc=m097nmfl|mel=100000|dpvc=1|ssv=4|lastModification=1712066411124|tp=500,50,0,1|agentUri=/eurostat/ruxitagentjs_ICA2NVfgjqrux_10281231207105659.js"></script><link rel="stylesheet" href="/eurostat/o/estat-theme-ecl/css/ecl-eu.css">
+    <link rel="stylesheet" media="print" href="/eurostat/o/estat-theme-ecl/css/ecl-eu-print.css"> 
+    <script type="text/javascript" defer src="https://ec.europa.eu/eurostat/o/estat-theme-ecl/js/moment.min.js"></script>
+    <script type="text/javascript" defer src="/eurostat/o/estat-theme-ecl/js/ecl-eu.js"></script>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <script type="application/ld+json">
+    {
+		"@context": "https://schema.org",
+		"@type": "GovernmentOrganization",
+		"@id": "https://ec.europa.eu/eurostat/",
+		"name": "Eurostat",
+		"description": "Eurostat is the statistical office of the European Union. Its mission is to provide high quality statistics and data on Europe.",
+		"url": "https://ec.europa.eu/eurostat/",
+		"logo": "https://ec.europa.eu/eurostat/o/estat-theme/images/logo/4x3.png",
+		"image": [
+			"https://ec.europa.eu/eurostat/o/estat-theme/images/logo/1x1.png",
+			"https://ec.europa.eu/eurostat/o/estat-theme/images/logo/4x3.png",
+			"https://ec.europa.eu/eurostat/o/estat-theme/images/logo/16x9.png"
+		],
+		"address": {
+			"@type": "PostalAddress",
+			"addressLocality": "Luxembourg",
+			"postalCode": "L-2721",
+			"streetAddress": "5 Rue Alphonse Weicker"
+		},
+		"geo": {
+			"@type": "GeoCoordinates",
+			"latitude": 49.633182,
+			"longitude": 6.169437
+		},
+		"telephone": "+35243011",
+		"foundingDate": "1953",
+		"memberOf": [{
+			"@type": "GovernmentOrganization",
+			"name": "European Commission",
+			"url": "https://ec.europa.eu/"
+		}],
+		"sameAs": [
+			"https://en.wikipedia.org/wiki/Eurostat",
+			"https://twitter.com/EU_Eurostat",
+			"https://www.facebook.com/EurostatStatistics",
+			"https://www.instagram.com/eu_eurostat",
+			"https://www.linkedin.com/company/eurostat/",
+			"https://youtube.com/c/Eurostat-EC"
+		]
+    }
+</script>
+    <link href="/eurostat/o/estat-theme-ecl/images/favicon.ico" rel="icon">
+    <script type="text/javascript">
+        document.addEventListener('DOMContentLoaded', function () {
+            ECL.autoInit();
+        });
+    </script>
+    <header class="ecl-site-header" data-ecl-auto-init="SiteHeader">
+        <div class="ecl-site-header__header">
+            <div class="ecl-site-header__container ecl-container">
+                <div class="ecl-site-header__top" data-ecl-site-header-top><a href="/eurostat"
+                        class="ecl-link ecl-link--standalone ecl-site-header__logo-link"
+                        aria-label="European&#x20;Union">
+                        <picture class="ecl-picture ecl-site-header__picture" title="Home (Eurostat)">
+                            <source
+                                srcset="/eurostat/o/estat-theme-ecl/images/header/estat-logo-horizontal.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1703114828000">
+                            <img class="ecl-site-header__logo-image"
+                                src="/eurostat/o/estat-theme-ecl/images/header/estat-logo-horizontal.svg?browserId=other&amp;minifierType=js&amp;languageId=en_GB&amp;t=1703114828000"
+                                alt="Home (Eurostat)">
+                        </picture>
+                    </a>
+                    <div class="ecl-site-header__action"></div>
+                </div>
+            </div>
+        </div>
+        <div class="ecl-site-header__banner">
+            <div class="ecl-container">
+                <div class="ecl-site-header__site-name"><h1 class="ecl-u-type-heading-1">410 - Gone</h4></div>
+            </div>
+        </div>
+        <div class="ecl-site-header__message">
+            <div class="ecl-container">
+                <div class="ecl-message ecl-message--error" data-ecl-message role="alert" data-ecl-auto-init="Message">
+                    <svg class="ecl-icon ecl-icon--l ecl-message__icon" focusable="false" aria-hidden="true">
+                        <use xlink:href="/eurostat/o/estat-theme-ecl/images/icons/sprites/icons.svg#error">
+                        </use>
+                    </svg>
+                    <div class="ecl-message__content"><button class="ecl-button ecl-button--ghost ecl-message__close"
+                            type="button" data-ecl-message-close><span class="ecl-button__container"><span
+                                    class="ecl-button__label" data-ecl-label="true">Close</span><svg
+                                    class="ecl-icon ecl-icon--xs ecl-button__icon ecl-button__icon--after"
+                                    focusable="false" aria-hidden="true" data-ecl-icon>
+                                    <use
+                                        xlink:href="/eurostat/o/estat-theme-ecl/images/icons/sprites/icons.svg#close-filled">
+                                    </use>
+                                </svg></span></button>
+                        <div class="ecl-message__title"><span class="ecl-u-type-heading-4">The page you were looking for is gone.</span></div>
+                        <div class="ecl-message__description">
+                            <p class="ecl-u-type-paragraph">For more information about migrating to the new API, please check this
+				<a class="ecl-link" href="https://wikis.ec.europa.eu/display/EUROSTATHELP/API+-+Migrating+from+Bulk+Download+Listing+urls+to+API+urls">page</a>.
+			    </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+</html>
